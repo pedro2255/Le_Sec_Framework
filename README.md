@@ -1,4 +1,10 @@
-.LeSecFramework
+
+╭╮╱╱╱╱╱╭━━━╮╱╱╱╱╱╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮
+┃┃╱╱╱╱╱┃╭━╮┃╱╱╱╱╱┃╭━━╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
+┃┃╱╱╭━━┫╰━━┳━━┳━━┫╰━━┳━┳━━┳╮╭┳━━┳╮╭╮╭┳━━┳━┫┃╭╮
+┃┃╱╭┫┃━╋━━╮┃┃━┫╭━┫╭━━┫╭┫╭╮┃╰╯┃┃━┫╰╯╰╯┃╭╮┃╭┫╰╯╯
+┃╰━╯┃┃━┫╰━╯┃┃━┫╰━┫┃╱╱┃┃┃╭╮┃┃┃┃┃━╋╮╭╮╭┫╰╯┃┃┃╭╮╮
+╰━━━┻━━┻━━━┻━━┻━━┻╯╱╱╰╯╰╯╰┻┻┻┻━━╯╰╯╰╯╰━━┻╯╰╯╰╯
 
 Bem-vindo ao LeSecFramework, um framework desenvolvido para facilitar a integração de ferramentas de segurança e automação de tarefas relacionadas. Este projeto é voltado para profissionais e entusiastas de segurança da informação que buscam uma solução completa e fácil de usar.
 
